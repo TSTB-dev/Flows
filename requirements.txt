@@ -1,0 +1,6 @@
+torch==1.13.0
+jupyter
+scikit-learn==1.2.0
+timm==0.6.12
+FrEIA==0.2
+matplotlib==3.6.2
